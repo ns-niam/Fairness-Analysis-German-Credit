@@ -19,6 +19,6 @@ Random Forest Classifier
 - Equal Opportunity
 
 ## Key Findings
-- Model performance differs across groups
+- Model performance differs groups
 - Proxy features reveal hidden bias
 - Fairness is critical in real-world ML systems# Fairness-Analysis-German-Credit
